@@ -1,0 +1,15 @@
+/Users/tundey/gradebook/src/Gradebook/bin/Debug/net6.0/Gradebook
+/Users/tundey/gradebook/src/Gradebook/bin/Debug/net6.0/Gradebook.deps.json
+/Users/tundey/gradebook/src/Gradebook/bin/Debug/net6.0/Gradebook.runtimeconfig.json
+/Users/tundey/gradebook/src/Gradebook/bin/Debug/net6.0/Gradebook.dll
+/Users/tundey/gradebook/src/Gradebook/bin/Debug/net6.0/Gradebook.pdb
+/Users/tundey/gradebook/src/Gradebook/obj/Debug/net6.0/Gradebook.csproj.AssemblyReference.cache
+/Users/tundey/gradebook/src/Gradebook/obj/Debug/net6.0/Gradebook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tundey/gradebook/src/Gradebook/obj/Debug/net6.0/Gradebook.AssemblyInfoInputs.cache
+/Users/tundey/gradebook/src/Gradebook/obj/Debug/net6.0/Gradebook.AssemblyInfo.cs
+/Users/tundey/gradebook/src/Gradebook/obj/Debug/net6.0/Gradebook.csproj.CoreCompileInputs.cache
+/Users/tundey/gradebook/src/Gradebook/obj/Debug/net6.0/Gradebook.dll
+/Users/tundey/gradebook/src/Gradebook/obj/Debug/net6.0/refint/Gradebook.dll
+/Users/tundey/gradebook/src/Gradebook/obj/Debug/net6.0/Gradebook.pdb
+/Users/tundey/gradebook/src/Gradebook/obj/Debug/net6.0/Gradebook.genruntimeconfig.cache
+/Users/tundey/gradebook/src/Gradebook/obj/Debug/net6.0/ref/Gradebook.dll
