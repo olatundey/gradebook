@@ -1,2 +1,2 @@
 # gradebook
-src = "Scott Allen c# gradebook project tut..."
+ref = "Scott Allen c# gradebook project tut..."
